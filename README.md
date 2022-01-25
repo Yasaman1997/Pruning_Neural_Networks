@@ -3,4 +3,4 @@
 
 
 
-More information:https://jacobgil.github.io/deeplearning/pruning-deep-learning
+GOOD TO LOOK AT THIS TO KNOW MORE ABOUT THE PRUNNING: https://jacobgil.github.io/deeplearning/pruning-deep-learning
